@@ -28,7 +28,7 @@ namespace Listing_1_19
         static void Main(string[] args)
         {
             Program p = new Program();
-            SleepAsyncA(1000);
+            //SleepAsyncA(1000);
 
             Console.WriteLine("AAA");
             Console.ReadKey();
